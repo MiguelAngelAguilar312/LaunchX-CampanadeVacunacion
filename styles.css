@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+.texto-nav-empresa{
+    color: #2d4dcb;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.texto-nav{
+    color: #6d7b93;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.boton{
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #2d4dcb;
+    border-radius: 2.5%;
+    align-items: flex-end;
+}
+footer{
+    background-color: #eef3ff;
+}
